@@ -15,3 +15,7 @@ teachers, and parents. It provides a secure platform to store and manage student
 personal information, academic performance, and attendance history. Through integration with other 
 educational systems, such as learning management systems and assessment platforms, the SMS 
 allows seamless data exchange, reducing duplication of effort and ensuring data accuracy.
+
+* THIS IS MY WORKING MODEL OF MY PROJECT
+
+![image](https://github.com/sivaganesh124/Student-Data-Management-System/assets/117064719/cbb305a4-c5b5-4647-bf59-b493bd7202c0)
