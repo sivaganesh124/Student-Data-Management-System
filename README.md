@@ -4,6 +4,6 @@ This project aims at maintaining all the information pertaining to students in a
 
 Keywords: Student database. Data insertion, Data deletion, Data retrieving, Student Profile
 
-* THIS IS MY WORKING MODEL OF MY PROJECT
+* THIS IS WORKING MODEL OF MY PROJECT
 
 ![image](https://github.com/sivaganesh124/Student-Data-Management-System/assets/117064719/cbb305a4-c5b5-4647-bf59-b493bd7202c0)
